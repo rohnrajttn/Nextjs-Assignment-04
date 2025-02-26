@@ -1,0 +1,42 @@
+{
+    "teachers": [
+      {"id": 1, "name": "John Smith", "subject": "Mathematics", "experience": 10},
+      {"id": 2, "name": "Sarah Johnson", "subject": "English", "experience": 8},
+      {"id": 3, "name": "David Brown", "subject": "Science", "experience": 12},
+      {"id": 4, "name": "Emily White", "subject": "History", "experience": 7},
+      {"id": 5, "name": "Michael Green", "subject": "Physics", "experience": 9}
+    ],
+    "students": [
+      {"id": 1, "name": "Alice", "age": 14, "grade": 9, "teacher": "John Smith"},
+      {"id": 2, "name": "Bob", "age": 15, "grade": 10, "teacher": "Sarah Johnson"},
+      {"id": 3, "name": "Charlie", "age": 13, "grade": 8, "teacher": "David Brown"},
+      {"id": 4, "name": "David", "age": 14, "grade": 9, "teacher": "Emily White"},
+      {"id": 5, "name": "Emma", "age": 12, "grade": 7, "teacher": "Michael Green"},
+      {"id": 6, "name": "Frank", "age": 16, "grade": 11, "teacher": "John Smith"},
+      {"id": 7, "name": "Grace", "age": 13, "grade": 8, "teacher": "Sarah Johnson"},
+      {"id": 8, "name": "Hannah", "age": 15, "grade": 10, "teacher": "David Brown"},
+      {"id": 9, "name": "Isaac", "age": 14, "grade": 9, "teacher": "Emily White"},
+      {"id": 10, "name": "Jack", "age": 12, "grade": 7, "teacher": "Michael Green"},
+      {"id": 11, "name": "Kate", "age": 16, "grade": 11, "teacher": "John Smith"},
+      {"id": 12, "name": "Liam", "age": 13, "grade": 8, "teacher": "Sarah Johnson"},
+      {"id": 13, "name": "Mia", "age": 14, "grade": 9, "teacher": "David Brown"},
+      {"id": 14, "name": "Nathan", "age": 15, "grade": 10, "teacher": "Emily White"},
+      {"id": 15, "name": "Olivia", "age": 12, "grade": 7, "teacher": "Michael Green"},
+      {"id": 16, "name": "Paul", "age": 16, "grade": 11, "teacher": "John Smith"},
+      {"id": 17, "name": "Quinn", "age": 13, "grade": 8, "teacher": "Sarah Johnson"},
+      {"id": 18, "name": "Rachel", "age": 14, "grade": 9, "teacher": "David Brown"},
+      {"id": 19, "name": "Samuel", "age": 15, "grade": 10, "teacher": "Emily White"},
+      {"id": 20, "name": "Tina", "age": 12, "grade": 7, "teacher": "Michael Green"},
+      {"id": 21, "name": "Umar", "age": 16, "grade": 11, "teacher": "John Smith"},
+      {"id": 22, "name": "Violet", "age": 13, "grade": 8, "teacher": "Sarah Johnson"},
+      {"id": 23, "name": "William", "age": 14, "grade": 9, "teacher": "David Brown"},
+      {"id": 24, "name": "Xander", "age": 15, "grade": 10, "teacher": "Emily White"},
+      {"id": 25, "name": "Yasmin", "age": 12, "grade": 7, "teacher": "Michael Green"},
+      {"id": 26, "name": "Zane", "age": 16, "grade": 11, "teacher": "John Smith"},
+      {"id": 27, "name": "Aaron", "age": 13, "grade": 8, "teacher": "Sarah Johnson"},
+      {"id": 28, "name": "Bella", "age": 14, "grade": 9, "teacher": "David Brown"},
+      {"id": 29, "name": "Carter", "age": 15, "grade": 10, "teacher": "Emily White"},
+      {"id": 30, "name": "Diana", "age": 12, "grade": 7, "teacher": "Michael Green"}
+    ]
+  }
+  
